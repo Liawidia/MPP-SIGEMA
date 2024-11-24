@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="SIGEMA-SISTEM GERAK MANUSIA" />
+              <option name="title_text" value="MPP SIGEMA-SISTEM GERAK MANUSIA FINAL" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1390,6 +1390,7 @@
         <slidelink slideid="_player.61mrPivjZQJ" displaytext="petunjuk penggunaan" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.61mrPivjZQJ.68bIKbjWedd" displaytext="Menu Utama" expand="false" type="slide" />
+            <slidelink slideid="_player.61mrPivjZQJ.6DFm04HZ3YP" displaytext="Menu Utama" expand="false" type="slide" />
             <slidelink slideid="_player.61mrPivjZQJ.5y3D9vQ9Gan" displaytext="Menu Utama" expand="false" type="slide" />
             <slidelink slideid="_player.61mrPivjZQJ.6Ej3vQDcj0G" displaytext="Menu Utama" expand="false" type="slide" />
             <slidelink slideid="_player.61mrPivjZQJ.5sbI5AXY7Mf" displaytext="Menu Utama" expand="false" type="slide" />
@@ -1400,7 +1401,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Sakura Girl - Small Town.mp3" image="story_content/6J0Oe8UPIHX.png" title="music" />
+      <resource url="story_content/external_files/Sakura Girl - Small Town.mp3" image="story_content/6QC4zN7vRPd.png" title="music" />
     </resources>
   </resource_data>
   <transcript_data />
